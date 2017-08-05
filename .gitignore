@@ -1,0 +1,22 @@
+# Python 3
+__pycache__/
+
+# virtualenv
+.py3/
+
+# Mac filesystem
+.DS_Store
+
+# Pycharm
+.idea/
+
+# private
+_config.py
+
+# data
+data/*
+log/*
+*.sqlite3
+
+# test
+**/*test*
